@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contact-TextVerse/static/css/main.50ef9034.css",
+    "main.js": "/Contact-TextVerse/static/js/main.3bd1119b.js",
+    "static/js/453.c2cee71a.chunk.js": "/Contact-TextVerse/static/js/453.c2cee71a.chunk.js",
+    "static/media/call-center-removebg-preview.png": "/Contact-TextVerse/static/media/call-center-removebg-preview.31143f647f8f7d759064.png",
+    "index.html": "/Contact-TextVerse/index.html",
+    "main.50ef9034.css.map": "/Contact-TextVerse/static/css/main.50ef9034.css.map",
+    "main.3bd1119b.js.map": "/Contact-TextVerse/static/js/main.3bd1119b.js.map",
+    "453.c2cee71a.chunk.js.map": "/Contact-TextVerse/static/js/453.c2cee71a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ef9034.css",
+    "static/js/main.3bd1119b.js"
+  ]
+}
